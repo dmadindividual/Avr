@@ -1,0 +1,25 @@
+
+.dashboard_box{
+    display: flex;
+    justify-content: space-between;
+    background: #3F3F46;
+    padding: 5px 15px;
+    border-radius: 0.5em;
+    align-items: center;
+}
+
+.header_text{
+    font-size: 1.2em;
+    color: white;
+    font-weight: 500;
+}
+.integrtae_paragraph {
+    color: #A1A1AA;
+    font-weight: lighter;
+  }
+
+  .btn_dashboard{
+    border: 2px solid white;
+    padding: 2px 10px;
+    border-radius: 4px;
+  }

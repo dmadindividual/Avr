@@ -1,0 +1,47 @@
+.sidebar {
+  width: 20%;
+  border-right: 2px solid white;
+}
+
+.sidebar_icons {
+  border: 2px solid white;
+  width: 13rem;
+  height: -moz-fit-content;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+  padding: 10px 20px;
+  border-radius: 1em;
+}
+
+.span_text {
+  color: white;
+  font-weight: bolder;
+  font-size: 1em;
+}
+
+.custom_svg {
+  stroke: white;
+}
+
+.icon_hover {
+  background-color: #1A1A1A;
+  border-radius: 0.3em;
+  padding: 3px 10px;
+  color: white;
+  position: relative;
+  transition: 0.1s ease;
+}
+
+.icon_hover::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0.3em;
+  height: 1.85em;
+  content: "";
+  background-color: #FF5E1A;
+  border-top-left-radius: 2em;
+  border-bottom-left-radius: 2em;
+}/*# sourceMappingURL=Sidebar.css.map */
