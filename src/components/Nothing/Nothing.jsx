@@ -7,7 +7,7 @@ const Nothing = () => {
     <div className='flex flex-col items-center justify-center Nothing'>
         <img src={Nothngtoshow} alt='nothing to show'/>
 
-        <p className='text-white text-5xl font-extrabold'>Nothing to Show</p>
+        <p className='text-white text-base font-light'>Nothing to Show</p>
 
 
 

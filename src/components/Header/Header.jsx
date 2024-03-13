@@ -13,8 +13,8 @@ const Header = () => {
 
 
       <div className="flex gap-1 items-center">
-      <RxAvatar color="#fff"/>
-      <h5 className="text-white font-medium">Robertson Cavani</h5>
+      <RxAvatar color="#A1A1AA"/>
+      <h5 className="text-[#A1A1AA] text-xs font-medium">Destiny Ehiakhamen</h5>
       </div>
     </div>
   );

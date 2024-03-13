@@ -9,16 +9,3 @@ body{
     background-color: #1f1f23;
 }
 
-.starter{
-    font-size: 1em;
-    font-weight: bold;
-    color: #FF5E1A;
-}
-
-.ugrade_btn{
-    padding: 4px 10px;
-    border: 1px solid white;
-    outline: none;
-    margin: auto;
-    border-radius: 4px;
-}

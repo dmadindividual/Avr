@@ -28,16 +28,16 @@
 
 .bg_button {
   background-color: #27272A;
-  color: white;
+  color: #A1A1AA;
   padding: 9px 30px;
   border-radius: 4px;
 }
 
 .search_div {
   width: 30%;
-  border: 1px solid white;
+  border: 1px solid #52525B;
   padding: 2px 15px;
-  color: white;
+  color: #52525B;
   border-radius: 3px;
 }
 
