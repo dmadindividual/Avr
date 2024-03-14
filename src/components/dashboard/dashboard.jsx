@@ -6,7 +6,7 @@ import { CiSettings } from "react-icons/ci";
 
 const Dashboard = () => {
   return (
-    <div className='flex flex-col gap-5 w-full border_red'>
+    <div className='flex flex-col gap-5 w-full dash_height'>
       {dashboardData.map(item => (
         <div className='dashboard_box' key={item.id}>
           <div className='flex items-center gap-5'>

@@ -1,6 +1,10 @@
 .sidebar {
   width: 20%;
   border-right: 2px solid #3F3F46;
+  height: calc(100vh - 8.1rem);
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: none;
 }
 
 .sidebar_icons {

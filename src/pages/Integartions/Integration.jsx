@@ -30,7 +30,7 @@ const Integration = () => {
     });
   }, []);
   return (
-    <div className="flex flex-col gap-5 w-full integration">
+    <div className="flex flex-col gap-5 integrate_size integration">
       <div className="flex items-center gap-3">
         <img
           src={Integrationlogo}
