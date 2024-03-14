@@ -29,7 +29,7 @@ const Sidebar = () => {
           {IconText.map((text, index) => (
             <div
               key={index}
-              className={`flex gap-4 items-center cursor-pointer ${
+              className={`flex gap-4 items-center cursor-pointer hover_state ${
                 selectedIcon === index ? "icon_hover" : ""
               }`}
               onClick={() => handleIconClick(index)}
