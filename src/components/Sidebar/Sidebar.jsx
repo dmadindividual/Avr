@@ -23,7 +23,7 @@ const Sidebar = () => {
   };
 
   return (
-    <div className="sidebar flex justify-between flex-col">
+    <div className="sidebar flex justify-between flex-col ">
       <div className="sidebar_container ">
         <div className="sidebar_icons">
           {IconText.map((text, index) => (
