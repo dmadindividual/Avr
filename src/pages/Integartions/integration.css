@@ -69,9 +69,8 @@
     width: 100%;
   }
   .button_div {
-    margin: 0 auto;
-    width: -moz-fit-content;
-    width: fit-content;
+    justify-content: center;
+    width: 100%;
   }
   .bg_button {
     background-color: #27272a;
