@@ -22,4 +22,18 @@
   border: 2px solid #D4D4D8;
   padding: 8px 10px;
   border-radius: 7px;
+}
+
+@media only screen and (max-width: 768px) {
+  .dashboard_box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1em;
+  }
+  .dasshy_text {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
 }/*# sourceMappingURL=dashboard.css.map */

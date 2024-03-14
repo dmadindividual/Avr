@@ -47,7 +47,7 @@ const Integration = () => {
         </div>
       </div>
 
-      <div className="flex justify-between button_width">
+      <div className="flex justify-between button_width button_div">
         <div className="flex gap-12 bg_button">
           <button
             className={buttonStates.allApps ? "bg_black_btn" : "bg_transparent"}
